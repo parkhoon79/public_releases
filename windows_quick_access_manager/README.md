@@ -1,13 +1,14 @@
 # Windows Quick Access Manager
 
 For managing File Explorer Quick Access pin order on Windows 11.
-After some many Windows 11 updates, I noticed the quick access stopped working for changing the order or in some cases adding a new item.
+
+After several Windows 11 updates, I noticed the quick access stopped working for changing the order or in some cases adding a new folder.
 I tried many methods explained online but couldn't find any that actually works.
-The only way to reorder them was to remove all items, then add them in the order that I want one by one.
+The only way to reorder them was to remove all items, then add them one by one in the order that I want.
+
 This GUI tool allows much more flexibility.
 
-
-
+![Windows Quick Access Manager](./screen%20capture.png)
 
 ## What This Project Is
 
