@@ -7,11 +7,11 @@ or install anything separately.
 # Current Published Tools
 - [Windows Quick Access Manager](https://github.com/parkhoon79/public_releases/tree/main/windows_quick_access_manager) -- manage Win11 Explorer's Quick Access shortcuts, with backup and restore function, drag and drop support.
 
-     <img src="https://github.com/parkhoon79/public_releases/blob/main/windows_quick_access_manager/screen%20capture.png?raw=true" alt="QuickAccess" width="800">
+     <img src="https://github.com/parkhoon79/public_releases/blob/main/windows_quick_access_manager/screen%20capture.png?raw=true" alt="QuickAccess" href="https://github.com/parkhoon79/public_releases/tree/main/windows_quick_access_manager" width="800">
 
 - [File Deleter](https://github.com/parkhoon79/public_releases/tree/main/file_deleter) -- finds junk files, or specific file from whole path. I somehow find a photo image dated 20260417_124201.jpg and I want to delete this from my home server, I would use this to search for the file name and delete that file.
 
-     <img src="https://raw.githubusercontent.com/parkhoon79/public_releases/refs/heads/main/file_deleter/screen%20capture.png" alt="QuickAccess" width="480">
+     <img src="https://raw.githubusercontent.com/parkhoon79/public_releases/refs/heads/main/file_deleter/screen%20capture.png" alt="QuickAccess" href="https://github.com/parkhoon79/public_releases/tree/main/file_deleter" width="480">
 
 
 
